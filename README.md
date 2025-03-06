@@ -1,3 +1,5 @@
+For this assignment I used .net8 wpf descktop application for normalizing and validating data from the CSV files, and SQL server for importing normalized and validated data from the CSV files.
+
 !!!! For this application to work you need to create the database.(you can use SQLQueries.sql file after database creation to create tables, indexes and procedures necessary for the database. Just copy and paste in a query windows in sql.).
 !!!! Also you need to update the connection string in the project file VeridionContext.cs
 !!!! I made everything manual in this example, but everything can be automated very easily.
