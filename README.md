@@ -1,5 +1,6 @@
-!!!! For this application to work you need to create the database.(you can use SQLQueries.sql after to create tables, indexes and procedures necessary for the database. Just copy and paste in a query windows in sql.).
+!!!! For this application to work you need to create the database.(you can use SQLQueries.sql file after database creation to create tables, indexes and procedures necessary for the database. Just copy and paste in a query windows in sql.).
 !!!! Also you need to update the connection string in the project file VeridionContext.cs
+!!!! I made everything manual in this example, but everything can be automated very easily.
 
 
 Description of the CSV Import and Processing Process
